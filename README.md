@@ -1,2 +1,2 @@
 # calculator
-simple calculator project using python
+simple calculator project using HTML,CSS,and JAVASCRIPT
